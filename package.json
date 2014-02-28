@@ -1,0 +1,16 @@
+{
+  "name": "benchmarks",
+  "description": "My performance investigations",
+  "version": "0.0.0",
+  "author": "Ben Shepheard",
+  "dependencies": {
+    "matcha": "^0.4.1",
+    "rimraf": "^2.2.6",
+    "chai": "^1.9.0",
+    "async": "^0.2.10",
+    "buffertools": "^2.0.1"
+  },
+  "repository": "git://github.com/HyperGeometric/benchmarks",
+  "license": "MIT",
+  "private": "true"
+}
